@@ -1,0 +1,42 @@
+body{
+    font-family: 'Raleway', sans-serif;
+    background-image: url(./img/White\ Background.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+    
+}
+
+/* NAV BAR */
+a{
+    color:gray;
+}
+
+.navbar-brand {
+    font-size: 1.5em;
+    font-weight: 700;
+}
+
+.nav-link{
+    font-size: 1.1;
+    
+}
+
+.hero-content {
+    margin-top: 4rem;
+}
+
+.hero-content h1{
+    font-weight: 900;
+    font-size: 4rem;
+}
+
+.hero-content h3{
+    font-weight: 700;
+}
+
+.social-icons-hero div{
+   border: solid 1px gray;
+   border-radius: 50%;
+
+
+}
