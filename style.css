@@ -7,18 +7,17 @@ body{
 }
 
 /* NAV BAR */
-a{
-    color:gray;
+a {
+    color: rgb(87, 87, 87);
 }
 
 .navbar-brand {
     font-size: 1.5em;
-    font-weight: 700;
+    font-weight:400;
 }
 
 .nav-link{
     font-size: 1.1;
-    
 }
 
 .hero-content {
@@ -37,6 +36,18 @@ a{
 .social-icons-hero div{
    border: solid 1px gray;
    border-radius: 50%;
+   
+}
 
+/* ABOUT */
 
+.about {
+    font-weight:700;
+    font-size: 4rem;
+}
+
+.btn-main{
+    background-color: gray;
+    color: white;
+    font-size: 1em;
 }
